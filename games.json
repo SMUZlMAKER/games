@@ -9,5 +9,16 @@
     "process_names": [
       "NeedForSpeedPayback.exe"
     ]
+  },
+  {
+    "id": "85473c5b-0be9-4de3-a17a-0f311eebfe48",
+    "name": "low budget",
+    "paths": {
+      "save_dir_path": "C:\\Users\\mamey\\AppData\\LocalLow\\gray2rgb\\LowBudgetRepairs",
+      "exe_path": "C:\\Games\\Low-Budget Repairs (2026)\\LowBudgetRepairs.exe"
+    },
+    "process_names": [
+      "LowBudgetRepairs.exe"
+    ]
   }
 ]
